@@ -1,6 +1,6 @@
 # BHEH_PHP_SHELL - Black Hat Ethical Hacking PHP Backdoor Shell v1.0
 
-![BHEH_PHP_SHELL Logo](https://example.com/path/to/logo.png)
+![BHEH_PHP_SHELL Logo](https://r00t-shell.com/wp-content/uploads/2025/02/BHEH_PHP_SHELL.png)
 
 ## Overview
 
