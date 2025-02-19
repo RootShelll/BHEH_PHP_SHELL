@@ -74,7 +74,7 @@ This comprehensive guide is designed to help beginners safely and effectively un
 
 For further inquiries, please contact [email@example.com](mailto:email@example.com).
 
-![BHEH_PHP_SHELL Screenshot](https://example.com/path/to/screenshot.png)
+![BHEH_PHP_SHELL Screenshot](https://r00t-shell.com/wp-content/uploads/2025/02/BHEH_PHP_SHELL.png)
 
 
 
